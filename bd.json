@@ -3,7 +3,7 @@
     "id": 0,
     "nombre": "JUEGOS DE PUNTAS Y DE EXTENSION",
     "ingredientes": "MARCA RYOBI 40 PC DE ACERO INOCIDABLE PARA TALADRO ELECTRICO",
-    "precio": 18$,
+    "precio": 18,
     "imagen": "https://i.blogs.es/8e3e94/tacos-suadero-la-vicenta-1/1366_2000.jpg"
   },
   {
@@ -18,21 +18,21 @@
     "nombre": "TALADRO ELECTRICO 1/2  2O V  MARCA DEWALT ",
     "ingredientes": "TALADRO DE
 STORNILLADOR ELECRICO DE 13 mm (1/2) CON  CARGADOR Y ESTUCHE",
-    "precio": 15$,
+    "precio": 15,
     "imagen": "https://i.ibb.co/S6LsWnM/lijadora.jpg"
   },
   {
     "id": 3,
     "nombre": "JUEGO DE TALADRO 3/8 MARCA DEWALT",
     "ingredientes": "TALADRO DE 3/8 (10mm) CON PORTABROCA SIN LLAVE 8,0 AMPS 2500 MAX rpm CON BOLSO DE OBSEQUIO",
-    "precio": 12$
+    "precio": 12,
     "imagen": "https://i.ibb.co/S0qdcfN/taladro.jpg"
   },
   {
     "id": 4,
     "nombre": "TALADRO PERCUTOR DE 1/2  (13mm) MARCA DEWALT ",
     "ingredientes": "TALADRO PERCUTOR DE 1/2 (13mm) CON LLAVE",
-    "precio": 18$,
+    "precio": 18,
     "imagen": "https://i.ibb.co/PwXWVWc/percutor.jpg"
   },
   {
@@ -46,14 +46,14 @@ STORNILLADOR ELECRICO DE 13 mm (1/2) CON  CARGADOR Y ESTUCHE",
     "id": 6,
     "nombre": "ESMERILADORA DE ANGULO PEQUEÑO MARCA DEWLT",
     "ingredientes": "https://i.ibb.co/SsDwP1j/esmeril.jpg",
-    "precio": 15$,
+    "precio": 15,
     "imagen": "https://i.ibb.co/SsDwP1j/esmeril.jpgg"
   },
   {
     "id": 7,
     "nombre": "TALADRO INALAMBRICO MARCA RYOBI 12V",
     "ingredientes": "KIT DE TALADRO INALAMBRICO CON SU CARGADO 12 V",
-    "precio": 12$,
+    "precio": 12,
     "imagen": "https://i.ibb.co/fttTpvc/tal-inalam-R.jpg"
   }
 
