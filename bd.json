@@ -8,16 +8,15 @@
   },
   {
     "id": 1,
-    "nombre": "ESMERILADORA ANGULAR DE 7" MARCA DE WALT",
-    "ingredientes": "ESMERILADORA ANGULAR 7" 8500RPM Y 4HP MAX.",
+    "nombre": "ESMERILADORA ANGULAR DE 7 PULGADAS MARCA DE WALT",
+    "ingredientes": "ESMERILADORA ANGULAR 7 PULGADAS 8500RPM Y 4HP MAX.",
     "precio": 15000,
     "imagen": "https://i.ibb.co/SsDwP1j/esmeril.jpg"
   },
   {
     "id": 2,
     "nombre": "TALADRO ELECTRICO 1/2  2O V  MARCA DEWALT ",
-    "ingredientes": "TALADRO DE
-STORNILLADOR ELECRICO DE 13 mm (1/2) CON  CARGADOR Y ESTUCHE",
+    "ingredientes": "TALADRO DESTORNILLADOR ELECRICO DE 13 mm (1/2) CON  CARGADOR Y ESTUCHE",
     "precio": 15,
     "imagen": "https://i.ibb.co/S6LsWnM/lijadora.jpg"
   },
