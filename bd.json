@@ -10,7 +10,7 @@
     "id": 1,
     "nombre": "ESMERILADORA ANGULAR DE 7 PULGADAS MARCA DEWALT",
     "ingredientes": "ESMERILADORA ANGULAR 7 PULGADAS 8500RPM Y 4HP MAX.",
-    "precio": 15000,
+    "precio": 14,
     "imagen": "https://i.ibb.co/SsDwP1j/esmeril.jpg"
   },
   {
@@ -38,7 +38,7 @@
     "id": 5,
     "nombre": "LIJADORA CON MANGO 1/4 MARCA DEWALT",
     "ingredientes": "https://i.ibb.co/KNwcYkz/kit-tal-inalam-D.jpg",
-    "precio": 15000,
+    "precio": 25,
     "imagen": "https://i.ibb.co/S6LsWnM/lijadora.jpg"
   },
   {
