@@ -1,58 +1,58 @@
 [
   {
     "id": 0,
-    "nombre": "JUEGOS DE PUNTAS Y DE EXTENSION",
-    "ingredientes": "MARCA RYOBI 40 PC DE ACERO INOCIDABLE PARA TALADRO ELECTRICO",
-    "precio": 18,
+    "nombre": "JUEGOS DE PUNTAS Y DE EXTENSIÓN",
+    "ingredientes": "MARCA RYOBI 40 PC DE ACERO INOXIDABLE PARA TALADRO ELECTRICO",
+    "precio": 25,
     "imagen": "https://i.ibb.co/xX0bnZj/Juego-de-puntas.jpg"
   },
   {
     "id": 1,
     "nombre": "ESMERILADORA ANGULAR DE 7 PULGADAS MARCA DEWALT",
     "ingredientes": "ESMERILADORA ANGULAR 7 PULGADAS 8500RPM Y 4HP MAX.",
-    "precio": 14,
+    "precio": 20,
     "imagen": "https://i.ibb.co/SsDwP1j/esmeril.jpg"
   },
   {
     "id": 2,
     "nombre": "TALADRO ELECTRICO 1/2  2O V  MARCA DEWALT ",
     "ingredientes": "TALADRO DESTORNILLADOR ELECRICO DE 13 mm (1/2) CON  CARGADOR Y ESTUCHE",
-    "precio": 15,
+    "precio": 50,
     "imagen": "https://i.ibb.co/S6LsWnM/lijadora.jpg"
   },
   {
     "id": 3,
     "nombre": "JUEGO DE TALADRO 3/8 MARCA DEWALT",
     "ingredientes": "TALADRO DE 3/8 (10mm) CON PORTABROCA SIN LLAVE 8,0 AMPS 2500 MAX rpm CON BOLSO DE OBSEQUIO",
-    "precio": 12,
+    "precio": 45,
     "imagen": "https://i.ibb.co/S0qdcfN/taladro.jpg"
   },
   {
     "id": 4,
     "nombre": "TALADRO PERCUTOR DE 1/2  (13mm) MARCA DEWALT ",
     "ingredientes": "TALADRO PERCUTOR DE 1/2 (13mm) CON LLAVE",
-    "precio": 18,
+    "precio": 35,
     "imagen": "https://i.ibb.co/PwXWVWc/percutor.jpg"
   },
   {
     "id": 5,
     "nombre": "LIJADORA CON MANGO 1/4 MARCA DEWALT",
-    "ingredientes": "https://i.ibb.co/KNwcYkz/kit-tal-inalam-D.jpg",
+    "ingredientes": "lIJADORA CON MANGO CON BOLSO INCORPORADO",
     "precio": 25,
     "imagen": "https://i.ibb.co/S6LsWnM/lijadora.jpg"
   },
   {
     "id": 6,
     "nombre": "ESMERILADORA DE ANGULO PEQUEÑO MARCA DEWLT",
-    "ingredientes": "https://i.ibb.co/SsDwP1j/esmeril.jpg",
-    "precio": 15,
+    "ingredientes": "EMERILADORA CON PROTECTOR ONE TOUCH DE ANGULO PEQUEÑO DE 115mm (4-1/2 PULGADAS)",
+    "precio": 60,
     "imagen": "https://i.ibb.co/SsDwP1j/esmeril.jpgg"
   },
   {
     "id": 7,
     "nombre": "TALADRO INALAMBRICO MARCA RYOBI 12V",
     "ingredientes": "KIT DE TALADRO INALAMBRICO CON SU CARGADO 12 V",
-    "precio": 12,
+    "precio": 52,
     "imagen": "https://i.ibb.co/fttTpvc/tal-inalam-R.jpg"
   }
 
